@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 14:40:59 +0530</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://example.org/posts/about-me/</link>
+      <pubDate>Thu, 15 Aug 2024 14:40:59 +0530</pubDate>
+      <guid>https://example.org/posts/about-me/</guid>
+      <description>About Me Hello there!&#xA;I&amp;rsquo;m Subhrajit, a second-year M.Tech student at the Indian Institute of Technology Gandhinagar, India.&#xA;I love Computer Science, especially Computer Systems.&#xA;Skills I&amp;rsquo;m learning skills related to Computer Systems, especially working with the kernel, architecture.&#xA;Hobbies Traveling Experimenting with anything Feel free to explore my website to learn more about my work and projects.</description>
+    </item>
+  </channel>
+</rss>
