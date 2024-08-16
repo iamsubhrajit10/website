@@ -1,0 +1,35 @@
+/* General section styling */
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 800px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #333;
+    border-bottom: 2px solid #e1e1e1;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .content-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .content-item h2 {
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  .content-item p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
