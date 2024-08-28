@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo -- 0.121.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Aug 2024 13:30:59 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 13:30:59 +0530</lastBuildDate>
     <atom:link href="https://iamsubhrajit10.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DigitsOnTurbo: Optimizing Large Number Arithmetic Operations</title>
       <link>https://iamsubhrajit10.me/posts/digitsonturbo/</link>
-      <pubDate>Sun, 25 Aug 2024 13:30:59 +0530</pubDate>
+      <pubDate>Wed, 28 Aug 2024 13:30:59 +0530</pubDate>
       <guid>https://iamsubhrajit10.me/posts/digitsonturbo/</guid>
       <description>This project is part of my M.Tech Thesis at IIT Gandhinagar, exploring optimizations for arithmetic operations on large numbers.</description>
     </item>
