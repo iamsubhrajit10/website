@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.121.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 13:30:59 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 13:30:59 +0530</lastBuildDate>
     <atom:link href="https://iamsubhrajit10.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DigitsOnTurbo: Optimizing Large Number Arithmetic Operations</title>
-      <link>https://iamsubhrajit10.me/posts/digitsonturbo/</link>
-      <pubDate>Sat, 31 Aug 2024 13:30:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/posts/digitsonturbo/</guid>
-      <description>This project is part of my M.Tech Thesis at IIT Gandhinagar, exploring optimizations for arithmetic operations on large numbers.</description>
-    </item>
     <item>
       <title>About Me</title>
       <link>https://iamsubhrajit10.me/posts/about-me/</link>
@@ -31,6 +24,13 @@ I love Computer Science, especially Computer Systems.
 &amp;ndash; শুভ্রজিৎ
 Skills I&amp;rsquo;m learning skills related to Computer Systems.
 Programming Language/Tools I Know Languages: C, C++, Java, MATLAB, Go, Python, R, Prolog, HTML, CSS, JavaScript, JSP, SQL, Kotlin Tools/Libraries/Simulators: Git, Bash, Wireshark, Docker, GDB, Valgrind, perf, AVX, OpenMP, MPI, gRPC, NS2, Mininet Operating Systems: Linux/Unix, Windows Hobbies Enjoying music Traveling Languages I Speak/Write বাংলা (Mother Tongue) हिंदी English संस्कृत (Learnt in School Curriculum) Feel free to explore my website to learn more about my work and projects.</description>
+    </item>
+    <item>
+      <title>DigitsOnTurbo: Optimizing Large Number Arithmetic Operations</title>
+      <link>https://iamsubhrajit10.me/posts/digitsonturbo/</link>
+      <pubDate>Thu, 15 Aug 2024 13:30:59 +0530</pubDate>
+      <guid>https://iamsubhrajit10.me/posts/digitsonturbo/</guid>
+      <description>This project is part of my M.Tech Thesis at IIT Gandhinagar, exploring optimizations for arithmetic operations on large numbers.</description>
     </item>
   </channel>
 </rss>
