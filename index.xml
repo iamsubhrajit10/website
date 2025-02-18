@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 14:40:59 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 14:40:59 +0530</lastBuildDate>
     <atom:link href="https://iamsubhrajit10.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferences</title>
@@ -45,6 +45,13 @@ Code Profiling and Optimization (November 2024) This was a Student-Run Short Cou
       <guid>https://iamsubhrajit10.me/gallery/university-of-kalyani/</guid>
       <description>Let&amp;rsquo;s take a look at a few shots of my alma mater, the University of Kalyani. These are taken at the university from 2021 to 2023 during my M.Sc degree.
 Dept. of CSE Building View from rooftop of Dept. Building Campus Tour Video This was clicked by my friend Pranab and I was riding the bike. A monsoon day at the University of Kalyani. Play it on 4K and enjoy the lush green campus!</description>
+    </item>
+    <item>
+      <title>Bio</title>
+      <link>https://iamsubhrajit10.me/posts/about-me/</link>
+      <pubDate>Thu, 15 Aug 2024 14:40:59 +0530</pubDate>
+      <guid>https://iamsubhrajit10.me/posts/about-me/</guid>
+      <description>Subhrajit Das is a final-year M.Tech student in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Gandhinagar. His current research focuses on Performance Optimization and Usable Privacy &amp;amp; Security. Before joining IIT Gandhinagar, he completed an M.Sc in Computer Science from the University of Kalyani and a B.Sc (Honours) in Computer Science from West Bengal State University. Alongside his studies, he has been a Teaching Assistant at IIT Gandhinagar for courses such as Distributed Systems, Computer &amp;amp; Network Security, Compilers, and Data Structures &amp;amp; Algorithms.</description>
     </item>
   </channel>
 </rss>
