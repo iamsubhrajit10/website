@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Subhrajit Das</title>
-    <link>https://iamsubhrajit10.me/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Subhrajit Das</description>
     <image>
       <title>Subhrajit Das</title>
@@ -11,17 +11,7 @@
     </image>
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 14:40:59 +0530</lastBuildDate>
-    <atom:link href="https://iamsubhrajit10.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://iamsubhrajit10.me/posts/about-me/</link>
-      <pubDate>Thu, 15 Aug 2024 14:40:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/posts/about-me/</guid>
-      <description>I am a final-year M.Tech student in the Department of Computer Science and Engineering at Indian Institute of Technology Gandhinagar.
-My research focuses on Performance Optimization and Usable Privacy &amp;amp; Security.
-Before joining IIT Gandhinagar, I completed my M.Sc in Computer Science from the University of Kalyani, where I worked on solving Facility Location problems using meta-heuristic algorithms.
-Prior to that, I earned a B.Sc (Honours) in Computer Science from West Bengal State University, where I tried to sneak into Reversible Computing.</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
