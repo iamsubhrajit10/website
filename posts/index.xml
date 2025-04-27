@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Subhrajit Das</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://iamsubhrajit10.me/posts/</link>
     <description>Recent content in Posts on Subhrajit Das</description>
     <image>
       <title>Subhrajit Das</title>
-      <url>https://github.com/iamsubhrajit10/website/blob/master/images/photo-professional.jpg?raw=true</url>
-      <link>https://github.com/iamsubhrajit10/website/blob/master/images/photo-professional.jpg?raw=true</link>
+      <url>https://github.com/iamsubhrajit10/website/blob/master/images/dp.jpg?raw=true</url>
+      <link>https://github.com/iamsubhrajit10/website/blob/master/images/dp.jpg?raw=true</link>
     </image>
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Feb 2025 14:40:59 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamsubhrajit10.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bio</title>
-      <link>http://localhost:1313/posts/about-me/</link>
+      <link>https://iamsubhrajit10.me/posts/about-me/</link>
       <pubDate>Thu, 15 Aug 2024 14:40:59 +0530</pubDate>
-      <guid>http://localhost:1313/posts/about-me/</guid>
+      <guid>https://iamsubhrajit10.me/posts/about-me/</guid>
       <description>Subhrajit Das is a final-year M.Tech student in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Gandhinagar. His current research focuses on Performance Optimization and Usable Privacy &amp;amp; Security. Before joining IIT Gandhinagar, he completed an M.Sc in Computer Science from the University of Kalyani and a B.Sc (Honours) in Computer Science from West Bengal State University. Alongside his studies, he has been a Teaching Assistant at IIT Gandhinagar for courses such as Distributed Systems, Computer &amp;amp; Network Security, Compilers, and Data Structures &amp;amp; Algorithms.</description>
     </item>
   </channel>

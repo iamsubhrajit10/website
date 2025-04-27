@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Education on Subhrajit Das</title>
-    <link>http://localhost:1313/education/</link>
+    <link>https://iamsubhrajit10.me/education/</link>
     <description>Recent content in Education on Subhrajit Das</description>
     <image>
       <title>Subhrajit Das</title>
-      <url>https://github.com/iamsubhrajit10/website/blob/master/images/photo-professional.jpg?raw=true</url>
-      <link>https://github.com/iamsubhrajit10/website/blob/master/images/photo-professional.jpg?raw=true</link>
+      <url>https://github.com/iamsubhrajit10/website/blob/master/images/dp.jpg?raw=true</url>
+      <link>https://github.com/iamsubhrajit10/website/blob/master/images/dp.jpg?raw=true</link>
     </image>
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamsubhrajit10.me/education/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
