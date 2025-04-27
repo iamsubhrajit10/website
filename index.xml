@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Subhrajit Das</title>
-    <link>https://iamsubhrajit10.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Subhrajit Das</description>
     <image>
       <title>Subhrajit Das</title>
@@ -12,45 +12,45 @@
     <generator>Hugo -- 0.126.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Feb 2025 14:40:59 +0530</lastBuildDate>
-    <atom:link href="https://iamsubhrajit10.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conferences</title>
-      <link>https://iamsubhrajit10.me/gallery/conferences/</link>
+      <link>http://localhost:1313/gallery/conferences/</link>
       <pubDate>Mon, 03 Feb 2025 14:40:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/gallery/conferences/</guid>
+      <guid>http://localhost:1313/gallery/conferences/</guid>
       <description>Below you may find some of the conferences I have attended over the years (as of now, only one :P).
 BuildSEC&#39;24 (19-20 December 2024, New Delhi, India) This is my first-ever publication as well as my first-ever conference attended. I presented our work on &amp;ldquo;Online Authentication Habits of Indian Users&amp;rdquo; at BuildSEC&#39;24, Building a Secure &amp;amp; Empowered Cyberspace, held on 19-20 December 2024 in New Delhi, India. </description>
     </item>
     <item>
       <title>IIT Gandhinagar Campus</title>
-      <link>https://iamsubhrajit10.me/gallery/iit-gandhinagar-campus/</link>
+      <link>http://localhost:1313/gallery/iit-gandhinagar-campus/</link>
       <pubDate>Mon, 03 Feb 2025 14:40:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/gallery/iit-gandhinagar-campus/</guid>
+      <guid>http://localhost:1313/gallery/iit-gandhinagar-campus/</guid>
       <description>Let&amp;rsquo;s take a look at the beautiful IIT Gandhinagar campus through my lens.
 IIT Gandhinagar Campus (2023-2025) These are taken during my stay at IIT Gandhinagar from 2023 to 2025 for my M.Tech degree.
 Green Campus Sunset Cotton Sky Sports Track Cricket Ground Night </description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://iamsubhrajit10.me/gallery/teaching/</link>
+      <link>http://localhost:1313/gallery/teaching/</link>
       <pubDate>Mon, 03 Feb 2025 14:40:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/gallery/teaching/</guid>
+      <guid>http://localhost:1313/gallery/teaching/</guid>
       <description>Below you may find some of the teaching activities I have been involved in over the years (as of now, only one :P).
 Code Profiling and Optimization (November 2024) This was a Student-Run Short Course on Code Profiling and Optimization conducted at IIT Gandhinagar during my final-year of M.Tech. I was principal instructor for the course along with my batchmate Pratyush Choudhary, who was the co-instructor. </description>
     </item>
     <item>
       <title>University of Kalyani Campus</title>
-      <link>https://iamsubhrajit10.me/gallery/university-of-kalyani/</link>
+      <link>http://localhost:1313/gallery/university-of-kalyani/</link>
       <pubDate>Mon, 03 Feb 2025 14:40:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/gallery/university-of-kalyani/</guid>
+      <guid>http://localhost:1313/gallery/university-of-kalyani/</guid>
       <description>Let&amp;rsquo;s take a look at a few shots of my alma mater, the University of Kalyani. These are taken at the university from 2021 to 2023 during my M.Sc degree.
 Dept. of CSE Building View from rooftop of Dept. Building Campus Tour Video This was clicked by my friend Pranab and I was riding the bike. A monsoon day at the University of Kalyani. Play it on 4K and enjoy the lush green campus!</description>
     </item>
     <item>
       <title>Bio</title>
-      <link>https://iamsubhrajit10.me/posts/about-me/</link>
+      <link>http://localhost:1313/posts/about-me/</link>
       <pubDate>Thu, 15 Aug 2024 14:40:59 +0530</pubDate>
-      <guid>https://iamsubhrajit10.me/posts/about-me/</guid>
+      <guid>http://localhost:1313/posts/about-me/</guid>
       <description>Subhrajit Das is a final-year M.Tech student in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Gandhinagar. His current research focuses on Performance Optimization and Usable Privacy &amp;amp; Security. Before joining IIT Gandhinagar, he completed an M.Sc in Computer Science from the University of Kalyani and a B.Sc (Honours) in Computer Science from West Bengal State University. Alongside his studies, he has been a Teaching Assistant at IIT Gandhinagar for courses such as Distributed Systems, Computer &amp;amp; Network Security, Compilers, and Data Structures &amp;amp; Algorithms.</description>
     </item>
   </channel>
